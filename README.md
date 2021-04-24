@@ -1,9 +1,13 @@
 # Principal-Component-Analysis
-Python 3 + Jupyter Notebook + Latex
+### Python 3 + Jupyter Notebook + Latex
 
-### Principal Component Analysis - Review 
+## Principal Component Analysis - Review 
 
-#### Content
+Principal Component Analysis (PCA) is an unsupervised linear transformation technique that is widely used across different fields, most prominently for feature extraction and dimensionality reduction. Other popular applications of PCA include exploratory data analyses and de-noising of signals in stock market trading, and the analysis of genome data and gene expression levels in the field of bioinformatics.
+
+PCA helps us to identify patterns in data based on the correlation between features. In a nutshell, PCA aims to find the directions of maximum variance in high-dimensional data and projects it onto a new subspace with equal or fewer dimensions than the original one.
+
+### Content
 1. Introduction
 2. Load data
 3. Standardization of the data
